@@ -43,6 +43,14 @@ Tkinter / Flask (optional) – GUI or web interface
 SQLite / CSV – Storage backend
 
 
+#  What steps you have to follow??
+
+- Download my Repository
+- Create a TrainingImage folder in a project.
+- Open a AMS_Run.py and change the all paths with your system path
+- Run AMS_Run.py.
+
+
 #    Project Structure
 
 - After run you need to give your face data to system so enter your ID and name in box than click on 'Take Images' button.
